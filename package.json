@@ -1,0 +1,29 @@
+{
+  "name": "@ratne/passport-infusionsoft",
+  "version": "0.0.4",
+  "description": "Infusionsoft API OAuth2 authentication strategy for Passport",
+  "main": "./lib/passport-infusionsoft",
+  "dependencies": {
+    "pkginfo": "0.2.x",
+    "passport-oauth": ">= 0.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ratne/passport-infusionsoft"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "author": "R <iacomidavide@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ratne/passport-infusionsoft/issues"
+  },
+  "homepage": "https://github.com/Ratne/passport-infusionsoft/issues#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
